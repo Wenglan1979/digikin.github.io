@@ -3,7 +3,7 @@ title: Digikin.io blog
 author: Digikin
 email: ericstumbo@student.purdueglobal.edu
 description: > # this means to ignore newlines until "show_exerpts:"
-  This a collection of short discussions and simple guids to hopefully help someone out.
+  This a collection of short discussions and simple guides to hopefully help someone out.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
